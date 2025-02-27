@@ -33,12 +33,12 @@ export default function Home() {
         {/* Testimonials */}
         <section className="bg-white py-16 text-center">
           <h2 className="text-3xl font-bold text-gray-800">What Our Students Say</h2>
-          <p className="text-gray-600 mt-4">"LearnX helped me land my dream job!" - Jane Doe</p>
+          <p className="text-gray-600 mt-4">&quot;LearnX helped me land my dream job!&quot; - Jane Doe</p>
         </section>
 
         {/* Footer */}
         <footer className="bg-gray-900 text-white text-center py-6">
-          <p>© 2025 LearnX. All rights reserved.</p>
+          <p>&copy; 2025 LearnX. All rights reserved.</p>
         </footer>
       </main>
     </>
